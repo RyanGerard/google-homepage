@@ -1,0 +1,22 @@
+.main-nav li{
+    display:inline;
+    list-style: none;
+    text-align: center;
+    padding: 14px 16px;
+  
+}
+
+
+
+.logo{
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    margin: auto;
+    padding-top: 200px;
+}
+
+.search-bar{
+    text-align: center;
+    width:100%;
+}
